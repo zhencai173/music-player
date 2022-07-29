@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body{background: url(" https://img.paulzzh.tech/touhou/random") no-repeat center center fixed;
+                    
+                    -webkit-background-size: cover;
+                    -o-background-size: cover;                
+                    background-size: cover;
+                    text-align: justify;
+                    letter-spacing: 2px;}
+a{margin-left: 55px;text-decoration: none;}
+p{margin-left: 55px;text-decoration: none;}
+h1{text-align:center;color:red;}
+
