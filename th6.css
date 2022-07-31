@@ -7,4 +7,36 @@ body{background: url(" https://img.paulzzh.tech/touhou/random") no-repeat center
                     background-size: cover;
                     text-align: justify;
                     letter-spacing: 2px;}
+.top {
+                        list-style-type: none;
+                        margin: 0;
+                        padding: 0;
+                        overflow: hidden;
+                        background-color: #333;
+                    }
+                    
+                    li {
+                        float: left;
+                    }
+                    
+                    li a {
+                        display: block;
+                        color: white;
+                        text-align: center;
+                        padding: 14px 16px;
+                        text-decoration: none;
+                    }
+                    
+                    li a:hover {
+                        background-color: #111;
+                    }
+h1{background-color: #f1f1f1;
+                        padding: 20px;
+                        text-align: center;}
+.c4{margin-top: -30px;}
+.c5{margin-top: 100px;background-color: rgba(254,219,207,0.5);border-radius: 25px;
+    border: 2px solid lightgray;
+    padding: 20px; 
+    
+    }
 
