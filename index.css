@@ -7,11 +7,44 @@ body{background: url(" https://img.paulzzh.tech/touhou/random") no-repeat center
                     background-size: cover;
                     text-align: justify;
                     letter-spacing: 2px;}
-a{margin-left: 55px;background-color: aliceblue;border-color: floralwhite;}
-a:link{text-decoration: none;border-style: outset;border-width: 6px;}
-a:visited{text-decoration: none;}
-a:hover{text-decoration: underline;}
-a:active{text-decoration: underline;border-style: inset;border-width: 6px;}
-p{margin-left: 55px;border-style: outset;border-color: #b2ff99;background-color: antiquewhite;border-width: 6px;width: 127px;}
-h1{text-align:center;color:red;}
+.top {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.c2{margin-left: 55px;margin-top: 100px;background-color: aliceblue;border-color: floralwhite;}
+.c2:link{text-decoration: none;border-style: outset;border-width: 6px;}
+.c2:visited{text-decoration: none;}
+.c2:hover{text-decoration: underline;}
+.c2:active{text-decoration: underline;border-style: inset;border-width: 6px;}
+p{margin-left: 55px;border-style: outset;border-color: #b2ff99;background-color: antiquewhite;border-width: 6px;width: 127px;margin-top: 100px;}
+h1{background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;}
+.c5{margin-top: 100px;background-color: rgba(254,219,207,0.5);height: 1000px;border-radius: 25px;
+    border: 2px solid lightgray;
+    padding: 20px; 
+    
+    }
+.c4{margin-top: -30px;}
+
+
 
